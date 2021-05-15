@@ -7266,6 +7266,7 @@ arendasita
 arendasite
 arendasoaica
 arendasoaice
+arende
 arendui
 arenduire
 arene
@@ -30485,6 +30486,7 @@ daunoasa
 daunoase
 daunos
 daunosi
+ddt
 deadweight
 deal
 dealuri
@@ -77406,6 +77408,7 @@ naframite
 naframuta
 naframute
 naft
+nafta
 naftalen
 naftalina
 naftena
@@ -86149,6 +86152,7 @@ ozalid
 ozena
 ozene
 ozeneu
+ozn
 ozoare
 ozocherita
 ozocherite
